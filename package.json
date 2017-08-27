@@ -1,0 +1,25 @@
+{
+  "name": "hamster_hole",
+  "version": "1.0.0",
+  "description": "nodejs-p2p-blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhenruyan/hamster_hole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhenruyan/hamster_hole/issues"
+  },
+  "homepage": "https://github.com/zhenruyan/hamster_hole#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "dblite": "^0.8.0",
+    "express": "^4.15.4",
+    "schema": "^0.2.1"
+  }
+}
